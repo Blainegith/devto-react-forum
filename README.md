@@ -6,7 +6,7 @@ npm install ./client
 ```
 npm run dev ./client
 ```
-### Run Express Server
+### Run Express server
 ```
 node ./client/server.js
 ```
