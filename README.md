@@ -1,12 +1,12 @@
-### Installing
+# Installing
 ```
 npm install ./client
 ```
-## Run React
+### Run React
 ```
 npm run dev ./client
 ```
-## Run Express Server
+### Run Express Server
 ```
 node ./client/server.js
 ```
